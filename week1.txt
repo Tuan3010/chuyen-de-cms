@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 week1.txt on branch week1 mà thôi
+=======
+week1.txt on branch main
+>>>>>>> main
